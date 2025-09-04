@@ -1,30 +1,26 @@
-This project includes nextjs, shadcnUi, React-Hook-Form, zod and has a landing page, login and sign up pages and then a dashboard page with its details is displayed. It was a great experience working with shadcn.
+This project is my weblog. includes nextjs, shadcnUi, React-Hook-Form.
 
 The images of the pages are as follows:
 
+main page:
 
-dashboard page:
-
-<img width="1920" height="772" alt="5" src="https://github.com/user-attachments/assets/976cd900-5f84-4c73-9e47-04b10694c2d1" />
-
+<img width="1901" height="900" alt="1" src="https://github.com/user-attachments/assets/ad4f22f7-e14d-466a-baff-25e3d00db1b4" />
 
 
+<img width="1897" height="878" alt="2" src="https://github.com/user-attachments/assets/3b526346-7d1b-4082-8bcf-1b24cdcbdefb" />
 
-<img width="1900" height="881" alt="1" src="https://github.com/user-attachments/assets/2b7428fb-6071-446f-a12d-a570f5645343" />
+post page:
 
+<img width="1902" height="975" alt="4" src="https://github.com/user-attachments/assets/8b31f0f0-75d3-46cd-805e-6afb20139ca3" />
 
+contact page:
 
-login page:
+<img width="1894" height="882" alt="3" src="https://github.com/user-attachments/assets/ecf73643-3e41-4f62-8aed-23480b54f672" />
 
-<img width="1901" height="778" alt="3" src="https://github.com/user-attachments/assets/6fa1ef6e-d39d-4118-bad1-f5ff2d7843ac" />
+detail of posts:
 
-
-sign up page:
-
-
-<img width="1897" height="771" alt="4" src="https://github.com/user-attachments/assets/21d35162-c78c-45fd-a08b-474d5c506833" />
+<img width="1915" height="976" alt="5" src="https://github.com/user-attachments/assets/35ec4a1d-e876-4767-bf51-c5c8ad0d5e42" />
 
 
 
-landing page:
-<img width="1916" height="781" alt="2" src="https://github.com/user-attachments/assets/a2721d80-8857-4d0a-bb2b-e05b404e9e67" />
+<img width="1903" height="983" alt="6" src="https://github.com/user-attachments/assets/67aa4da1-edcd-4c91-9a82-f28bf79b260b" />
